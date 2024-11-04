@@ -1,0 +1,131 @@
+{
+  "test_name": "UAS in Modern Warfare",
+  "instructions": "Read each question carefully and choose the best answer.",
+  "questions": {
+    "multiple_choice": [
+      {
+        "id": "mcq1",
+        "question": "What is a key advantage of Autonomy and AI in Unmanned Aircraft Systems (UAS)?",
+        "options": [
+          {"text": "A) Increased human workload", "correct": false},
+          {"text": "B) Enhanced situational awareness", "correct": true},
+          {"text": "C) Reduced sensor capabilities", "correct": false},
+          {"text": "D) Decreased communication range", "correct": false}
+        ]
+      },
+      {
+        "id": "mcq2",
+        "question": "Which of the following is a primary concern for UAS Maintenance and Logistics in the Ukraine-Russia War?",
+        "options": [
+          {"text": "A) Fuel efficiency", "correct": false},
+          {"text": "B) Sensor calibration", "correct": false},
+          {"text": "C) Cybersecurity threats", "correct": true},
+          {"text": "D) Battery life", "correct": false}
+        ]
+      },
+      {
+        "id": "mcq3",
+        "question": "What is a primary function of Sensor and Communication Systems in Ukrainian UAS Capabilities?",
+        "options": [
+          {"text": "A) Navigation and control", "correct": false},
+          {"text": "B) Threat detection and tracking", "correct": false},
+          {"text": "C) Data transmission and reception", "correct": true},
+          {"text": "D) Propulsion and stabilization", "correct": false}
+        ]
+      },
+      {
+        "id": "mcq4",
+        "question": "Which of the following is an example of International Cooperation and Export in the context of UAS in Modern Warfare?",
+        "options": [
+          {"text": "A) Joint UAS development with NATO allies", "correct": true},
+          {"text": "B) Unilateral UAS deployment in conflict zones", "correct": false},
+          {"text": "C) UAS sales to non-state actors", "correct": false},
+          {"text": "D) Cyberattacks on UAS manufacturers", "correct": false}
+        ]
+      }
+    ],
+    "short_answer": [
+      {
+        "id": "sa1",
+        "question": "How can Ukrainian UAS capabilities be utilized to enhance border surveillance and monitoring in the Ukraine-Russia conflict?",
+        "answer": ""
+      },
+      {
+        "id": "sa2",
+        "question": "What are the potential benefits of integrating Autonomy and AI in UAS for reconnaissance missions, and how can they be effectively utilized in modern warfare?",
+        "answer": ""
+      },
+      {
+        "id": "sa3",
+        "question": "A Russian UAS has been detected in Ukrainian airspace. What Counter-UAS Measures could be employed to neutralize the threat, and what are the potential consequences of each approach?",
+        "answer": ""
+      },
+      {
+        "id": "sa4",
+        "question": "A Ukrainian UAS requires maintenance and repair after a mission. What logistical considerations must be taken into account to ensure timely and effective maintenance, and how can international cooperation facilitate this process?",
+        "answer": ""
+      },
+      {
+        "id": "sa5",
+        "question": "How can Sensor and Communication Systems in UAS be optimized for effective communication between ground control stations and UAS in real-time, and what are the implications for tactical decision-making?",
+        "answer": ""
+      }
+    ],
+    "essay": [
+      {
+        "id": "e1",
+        "question": "Compare and contrast the UAS capabilities of Ukraine and Russia, highlighting their strengths and weaknesses in terms of Autonomy and AI, Sensor and Communication Systems, and Counter-UAS Measures.",
+        "word_limit": 500
+      },
+      {
+        "id": "e2",
+        "question": "How do the key concepts of Autonomy and AI, Sensor and Communication Systems, and Counter-UAS Measures intersect and influence one another in the context of UAS in modern warfare?",
+        "word_limit": 500
+      },
+      {
+        "id": "e3",
+        "question": "What are the limitations and challenges of using UAS in modern warfare, and how can these be addressed through international cooperation and export of UAS technology?",
+        "word_limit": 500
+      },
+      {
+        "id": "e4",
+        "question": "Analyze the role of UAS Maintenance and Logistics in ensuring the effectiveness of UAS operations, and what strategies can be employed to optimize these processes?",
+        "word_limit": 500
+      },
+      {
+        "id": "e5",
+        "question": "How do the main topics of Unmanned Aircraft Systems (UAS) in Ukraine, Combat Drones in the Ukraine-Russia War, Ukrainian UAS Capabilities, Russian UAS Capabilities, and UAS in Modern Warfare intersect and inform one another?",
+        "word_limit": 500
+      }
+    ],
+    "case_study": [
+      {
+        "id": "cs1",
+        "question": "Design a comprehensive UAS system for the Ukrainian military, incorporating Autonomy and AI, Sensor and Communication Systems, and Counter-UAS Measures. What are the potential advantages and limitations of this system?",
+        "word_limit": 1000
+      },
+      {
+        "id": "cs2",
+        "question": "Develop a hypothetical scenario in which UAS are used in a joint operation between Ukraine and a coalition of international partners. What are the key considerations for effective international cooperation and export of UAS technology in this scenario?",
+        "word_limit": 1000
+      },
+      {
+        "id": "cs3",
+        "question": "Imagine a future scenario in which UAS have become the primary means of combat in modern warfare. What would be the implications of this development for international relations, military strategy, and the global arms trade?",
+        "word_limit": 1000
+      },
+      {
+        "id": "cs4",
+        "question": "Create a concept of operations for a Ukrainian UAS task force, incorporating UAS Maintenance and Logistics, Counter-UAS Measures, and international cooperation. What are the potential challenges and opportunities of this concept?",
+        "word_limit": 1000
+      }
+    ],
+    "research_proposal": [
+      {
+        "id": "rp1",
+        "question": "Develop a research proposal to investigate the effectiveness of UAS in modern warfare, incorporating the key concepts of Autonomy and AI, Sensor and Communication Systems, and Counter-UAS Measures. What are the potential methodological approaches and limitations of this study?",
+        "word_limit": 1500
+      }
+    ]
+  }
+}
